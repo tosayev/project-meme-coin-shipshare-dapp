@@ -1,6 +1,6 @@
-# Cadena Bank DAPP
+# ShipShareCoin DAPP
 
-This is the completed code for the Bank DAPP.
+This is a DApp that allows interaction with the ShipShareCoin meme coin.
 
 ## To Install
 
