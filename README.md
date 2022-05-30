@@ -10,6 +10,6 @@ Clone the project and run:
 ### `npm start`
 
 ## Interact with the Deployed DApp
-The app is deployed here: project-meme-coin-shipshare-dapp.vercel.app
+The app is deployed [here](https://project-meme-coin-shipshare-dapp.vercel.app).
 
 You will need a MetaMask wallet to interact with it.
