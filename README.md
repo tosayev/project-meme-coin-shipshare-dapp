@@ -1,6 +1,6 @@
 # ShipShareCoin DApp
 
-This is a dapp that allows interaction with the ShipShareCoin meme coin.
+This is a dapp that allows interaction with the ShipShareCoin meme coin ([token on Etherscan](https://rinkeby.etherscan.io/token/0xDd793F17DE38383c4eEF74DA4288e2Fdc2AA843D), [code on GitHub](https://github.com/tosayev/project-meme-coin-shipshare)).
 
 ## To Install
 
