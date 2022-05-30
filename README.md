@@ -1,6 +1,6 @@
-# ShipShareCoin DAPP
+# ShipShareCoin DApp
 
-This is a DApp that allows interaction with the ShipShareCoin meme coin.
+This is a dapp that allows interaction with the ShipShareCoin meme coin.
 
 ## To Install
 
